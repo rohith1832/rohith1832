@@ -2,7 +2,8 @@
 
 🎓 BTech Electronics and Computer Engineering @ VIT Chennai  
 📍 Passionate about Android Development, AI/ML, and Full-Stack Web Development  
-📬 Reach me: rohith.kodali.6818@gmail.com (or) kodalil.rohith2023@vitstudent.ac.in| [LinkedIn](https://www.linkedin.com/in/rohith-kodali-aa83ab2a3/) | [Resume](https://drive.google.com/drive/folders/1fiY2Wsd5ypgHf1UvBV7rFOs4XC6leQvb) | [Portfolio] (https://rohithkodali-portfolio-xi.vercel.app)
+📬 Reach me: rohith.kodali.6818@gmail.com (or) kodalil.rohith2023@vitstudent.ac.in  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohith-kodali-aa83ab2a3/) | [Resume](https://drive.google.com/drive/folders/1fiY2Wsd5ypgHf1UvBV7rFOs4XC6leQvb) | [Portfolio](https://rohithkodali-portfolio-xi.vercel.app)
 
 ---
 
@@ -72,6 +73,7 @@ AI-based driving bot in CARLA simulator for Deep Drive Challenge
 ---
 
 Thanks for stopping by! Let's connect and build something awesome 🚀
+
 
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/rohith1832/achievements?format=svg&limit=3" width="350" />
