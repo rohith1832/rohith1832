@@ -2,7 +2,7 @@
 
 🎓 BTech Electronics and Computer Engineering @ VIT Chennai  
 📍 Passionate about Android Development, AI/ML, and Full-Stack Web Development  
-📬 Reach me: rohith.kodali.6818@gmail.com (or) kodalil.rohith2023@vitstudent.ac.in| [LinkedIn](https://www.linkedin.com/in/rohith-kodali-aa83ab2a3/) | [Resume](https://drive.google.com/drive/folders/1fiY2Wsd5ypgHf1UvBV7rFOs4XC6leQvb)
+📬 Reach me: rohith.kodali.6818@gmail.com (or) kodalil.rohith2023@vitstudent.ac.in| [LinkedIn](https://www.linkedin.com/in/rohith-kodali-aa83ab2a3/) | [Resume](https://drive.google.com/drive/folders/1fiY2Wsd5ypgHf1UvBV7rFOs4XC6leQvb) | [Portfolio] (https://rohithkodali-portfolio-xi.vercel.app)
 
 ---
 
